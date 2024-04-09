@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'adamzales'
-description 'Effect on crash'
+description 'Kill on crash'
 lua54 'yes'
 shared_scripts {
   'config.lua',
